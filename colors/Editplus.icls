@@ -4,7 +4,7 @@
     <property name="created">2019-07-22T10:31:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-01-29T09:06:38</property>
+    <property name="modified">2020-01-29T09:28:38</property>
     <property name="originalScheme">Editplus</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -540,6 +540,9 @@
       <value />
     </option>
     <option name="SCOPE_KEY_Tests">
+      <value />
+    </option>
+    <option name="TEXT">
       <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
