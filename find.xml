@@ -5,5 +5,31 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.swift</mask>
+    <mask>*.inl</mask>
+    <mask>*.ino</mask>
+    <mask>*.pch</mask>
+    <mask>*.c++</mask>
+    <mask>*.ipp</mask>
+    <mask>*.c</mask>
+    <mask>*.h++</mask>
+    <mask>*.i</mask>
+    <mask>*.hh</mask>
+    <mask>*.hxx</mask>
+    <mask>*.mm</mask>
+    <mask>*.cxx</mask>
+    <mask>*.ii</mask>
+    <mask>*.icc</mask>
+    <mask>*.hp</mask>
+    <mask>*.tcc</mask>
+    <mask>*.cpp</mask>
+    <mask>*.hpp</mask>
+    <mask>*.cc</mask>
+    <mask>*.cp</mask>
+    <mask>*.h</mask>
+    <mask>*.m</mask>
   </component>
 </application>
