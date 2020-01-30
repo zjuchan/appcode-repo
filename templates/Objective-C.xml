@@ -1,19 +1,19 @@
 <templateSet group="Objective-C">
-  <template name="mmake" value="[$view$ mas_makeConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas Make" toReformat="false" toShortenFQNames="true">
+  <template name="masm" value="[$view$ mas_makeConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas Make" toReformat="false" toShortenFQNames="true">
     <variable name="view" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="function" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OC_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="mupdate" value="[$view$ mas_updateConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas Update" toReformat="false" toShortenFQNames="true">
+  <template name="masu" value="[$view$ mas_updateConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas Update" toReformat="false" toShortenFQNames="true">
     <variable name="view" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="function" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OC_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="mremake" value="[$view$ mas_remakeConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas ReMake" toReformat="false" toShortenFQNames="true">
+  <template name="masr" value="[$view$ mas_remakeConstraints:^(MASConstraintMaker *make) {&#10;    make.$function$&#10;}];" description="Mas ReMake" toReformat="false" toShortenFQNames="true">
     <variable name="view" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="function" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
